@@ -333,7 +333,10 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/VSSettingsProvider.ref.dll"
 "Assets/ExampleAssets/Prefabs/NewBehaviourScript.cs"
+"Assets/ExampleAssets/Scripts/MoveScript.cs"
+"Assets/ExampleAssets/Scripts/ScriptForPlayer.cs"
 "Assets/Scripts/SimpleCameraController.cs"
+"Assets/ScriptWASD.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
 -langversion:8.0
 
