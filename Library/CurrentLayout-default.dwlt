@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1904
     height: 981
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Hierarchy
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 117
+  controlID: 64
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 45
+  controlID: 71
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 46
+  controlID: 72
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -314,22 +314,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Materials/Dungeon_stone_textures/Materials
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Materials/Dungeon_stone_textures/Materials
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\MyGame\Game
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: da610000
-    m_LastClickedID: 25050
-    m_ExpandedIDs: 00000000da610000dc610000de610000e0610000e2610000e461000000ca9a3b
+    m_SelectedIDs: ec610000
+    m_LastClickedID: 25068
+    m_ExpandedIDs: 00000000da610000dc610000de610000e0610000e2610000e4610000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -479,9 +479,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 70630000
+      m_SelectedIDs: f6610000
       m_LastClickedID: 0
-      m_ExpandedIDs: 
+      m_ExpandedIDs: 54fbffff56fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -541,9 +541,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -4.783044, y: -9.434899, z: -1.4025049}
+    m_Target: {x: -5.249076, y: -7.9183655, z: -3.295004}
     speed: 2
-    m_Value: {x: -4.783044, y: -9.434899, z: -1.4025049}
+    m_Value: {x: -5.249076, y: -7.9183655, z: -3.295004}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -590,13 +590,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.020166807, y: 0.8866966, z: -0.4602833, w: 0.038866464}
+    m_Target: {x: 0.0066628093, y: 0.91766936, z: -0.3970048, w: 0.015422329}
     speed: 2
-    m_Value: {x: 0.020166809, y: 0.88669664, z: -0.4602833, w: 0.038866464}
+    m_Value: {x: 0.006109367, y: 0.9164908, z: -0.39976323, w: 0.01402746}
   m_Size:
-    m_Target: 11.720932
+    m_Target: 8.521093
     speed: 2
-    m_Value: 11.720932
+    m_Value: 8.922611
   m_Ortho:
     m_Target: 0
     speed: 2
