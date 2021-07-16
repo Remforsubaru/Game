@@ -1,6 +1,9 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+
+//Движение игрока на wasd
+
 public class PlayerMove : MonoBehaviour
 {
     public float speed = 6.0f;

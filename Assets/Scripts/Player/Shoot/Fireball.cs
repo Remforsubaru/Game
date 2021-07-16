@@ -24,12 +24,10 @@ public class Fireball : MonoBehaviour
         if (Physics.Linecast(LastPos, transform.position, out hit))
         {
             print(hit.transform.name);
-            Destroy (this.gameObject);
+            Destroy (this.gameObject); //Иногда ругается и не дает вызывать новый объект, но последнее время такого не было
         }
         LastPos = transform.position;
     }
-
-    
 
 }
 

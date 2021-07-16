@@ -9,11 +9,6 @@ public class Gun : MonoBehaviour
     private float nextFire = 0f;
     public float fireRate = 1f;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-
-    }
 
     // Update is called once per frame
     void FixedUpdate()

@@ -8,7 +8,7 @@ public class Room : MonoBehaviour
     public GameObject DoorL;
 
     public Mesh[] BlockMeshes;
-
+    //Чисто Дизайн, на игру не влияет
     //private void Start()
     //{
     //    foreach (var filter in GetComponentsInChildren<MeshFilter>())
@@ -21,6 +21,7 @@ public class Room : MonoBehaviour
     //    }
     //}
 
+    //Поварачивает комнаты для генирации
     public void RotateRandomly()
     {
         int count = Random.Range(0, 4);
