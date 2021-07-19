@@ -4,9 +4,9 @@ using System.Collections;
 public class Enemy : MonoBehaviour
 {
     //дистанция от которой он начинает видеть игрока
-    public float seeDistance = 10f;
+    public float seeDistance;
     //дистанция до атаки
-    public float attackDistance = 2f;
+    public float attackDistance;
     public Transform player;
     public float move_speed;
     public float rotation_speed;
