@@ -21,7 +21,6 @@ public class RoomsPlacer : MonoBehaviour
         {
             // Это вот просто убрать чтобы подземелье генерировалось мгновенно на старте
             yield return new WaitForSecondsRealtime(0.0f);
-
             PlaceOneRoom();
         }
     }

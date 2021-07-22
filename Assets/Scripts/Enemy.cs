@@ -139,9 +139,11 @@ public class Enemy : MonoBehaviour
     }
     public void TakeDamage(int damage)
     {
+        player.score += 10;
         health -= damage;
         if (health < 1)
         {
+            player.score += 30;
             Destroy(gameObject);
         }
     }

@@ -11,15 +11,23 @@ public class Menu : MonoBehaviour
 
     public void Play()
     {
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(2);
     }
 
     public void Settings()
     {
-       
+        SceneManager.LoadScene(4);
     }
 
+    public void Load()
+    {
+        SceneManager.LoadScene(0);
+    }
     public void Exit()
+    {
+        SceneManager.LoadScene(3);
+    }
+    public void Quit()
     {
         Application.Quit();
     }
